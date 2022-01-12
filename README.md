@@ -1,4 +1,4 @@
-![Shopping](shopping.png)
+![Shopping](../shopping.png)
 
 ## Demo
 #### Here is a working live demo :  https://sam-shopping.netlify.app/
@@ -9,6 +9,8 @@
 - [React JS](https://reactjs.org/)
 - [React Bootstrap](https://v4.mui.com/)
 - [FAKER jS](https://www.npmjs.com/package/faker/v/5.5.0)
+- [Context API](https://v4.mui.com/)
+- [React Redux](https://www.npmjs.com/package/faker/v/5.5.0)
 
 ### I used Context API to manage my currency states
 

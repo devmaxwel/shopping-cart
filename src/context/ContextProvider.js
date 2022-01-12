@@ -15,6 +15,7 @@ const ContextProvider = ({children }) => {
        name: faker.commerce.productName(),
        price: faker.commerce.price(),
        image: faker.random.image(),
+       fastDelivery:Math.random() < 0.5,
        inStock: faker.random.arrayElement([0,3, 5,7,9]),
        ratings:faker.random.arrayElement([1,2,3,4,5]),
     }));
