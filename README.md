@@ -9,8 +9,8 @@
 - [React JS](https://reactjs.org/)
 - [React Bootstrap](https://v4.mui.com/)
 - [FAKER jS](https://www.npmjs.com/package/faker/v/5.5.0)
-- [Context API](https://v4.mui.com/)
-- [React Redux](https://www.npmjs.com/package/faker/v/5.5.0)
+- [Context API](https://reactjs.org/docs/context.html).
+- [React Redux](https://react-redux.js.org/)
 
 ### I used Context API to manage my currency states
 
