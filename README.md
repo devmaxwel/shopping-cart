@@ -1,4 +1,4 @@
-![Shopping](../shopping.png)
+![Shopping](https://user-images.githubusercontent.com/64557216/149202023-5198d8d5-2af9-4b5a-90c1-f704148df9bc.png)
 
 ## Demo
 #### Here is a working live demo :  https://sam-shopping.netlify.app/
